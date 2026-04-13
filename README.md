@@ -1,7 +1,6 @@
-# Hello! I'm Andy :P
+# Hello! I'm Andy
 
 ## About me
-Hello! I'm a passionate QA
 
 ## Contact me
 
